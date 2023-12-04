@@ -1,0 +1,8 @@
+.quit
+
+open cmd
+cd to directory where you want DB
+
+>>>sqlite3 <DB name>.db
+>>>create table <name>(<ColumnName> <DType>,<ColumnName> <DType>,...)
+>>>insert into <name> values(value1,  value2, ...)
